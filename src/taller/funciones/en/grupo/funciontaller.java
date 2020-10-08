@@ -14,7 +14,7 @@ public class funciontaller {
     
     public double costomaterias (double materias)
     {
-    double costoMateria = 100000;    
+    double costoMateria = 100000;   
         
     costo = materias * costoMateria;
     return costo;
